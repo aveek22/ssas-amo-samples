@@ -73,7 +73,7 @@ namespace SSAS_ConsoleApp
 
             Console.WriteLine();
             Console.WriteLine("Trying to read data from cube");
-            GetData(connectionString);
+            //GetData(connectionString);
 
 
 
